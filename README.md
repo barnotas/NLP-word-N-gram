@@ -1,7 +1,7 @@
 # NLP-text-N-gram
 # Statistical Language Modelling with Unigram, Bigram, and Smoothed Bigram Models
 # Project Description
-This project implements and evaluates three statistical language models for estiimating the probability of natural language text. The models were trained and tested on a cleaned English corpus, and their performance was evaluated using perplexity as a metric. 
+This project implements and evaluates three statistical language models for estimating the probability of natural language text. The models were trained and tested on a cleaned English corpus, and their performance was evaluated using perplexity as a metric. 
 The key components of the project include:
 * Text Preprocessing: Tokenization, lowercasing, punctuation removal, and sentence boundary detection were applied to raw text to prepare training and test dataset.
 * Unigram Model
